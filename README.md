@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am currently a Computational Scientist at Imperagen, where I develop models to predict enzyme activity, stability, and selectivity. My work combines _in silico_ simulations, including quantum chemistry and molecular dynamics workflows, as well as high-performance computing, and machine learning.
+Computational Scientist developing models for enzyme activity, stability, and selectivity. My work spans quantum chemistry, molecular dynamics, high-performance computing, and machine learning and AI workflows. I have previously developed end-to-end ML interatomic potential pipelines for efficient simulation of biomolecules and crystalline materials. Interested in computational chemistry, drug discovery, materials science, and AI/ML.
 
 ## 🛠️ Tech Stack
 
@@ -10,7 +10,7 @@ I am currently a Computational Scientist at Imperagen, where I develop models to
 `Python` `C` `C++` `Fortran` `SQL`
 
 **Machine Learning / AI / Data Processing**  
-`PyTorch` `GPyTorch` `scikit-learn` `scipy` `pandas` `NumPy` `matplotlib` `FastMCP`
+`PyTorch` `GPyTorch` `scikit-learn` `scipy` `pandas` `NumPy` `FastMCP`
 
 **Tools / Platforms**  
 `Git` `Docker` `VS Code` `Linux` `SGE` `SLURM`
