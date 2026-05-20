@@ -10,7 +10,7 @@ Computational Scientist developing models for enzyme activity, stability, and se
 `Python` `C` `C++` `Fortran` `SQL`
 
 **Machine Learning / AI / Data Processing**  
-`PyTorch` `GPyTorch` `scikit-learn` `scipy` `pandas` `NumPy` `FastMCP`
+`PyTorch` `GPyTorch` `JAX` `scikit-learn` `scipy` `pandas` `NumPy` `FastMCP`
 
 **Tools / Platforms**  
 `Git` `Docker` `VS Code` `Linux` `SGE` `SLURM`
