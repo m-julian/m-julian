@@ -2,18 +2,18 @@
 
 ## 👨‍💻 About Me
 
-Computational Scientist developing models for enzyme activity, stability, and selectivity. My work spans quantum chemistry, molecular dynamics, high-performance computing, and machine learning and AI workflows. I have previously developed end-to-end ML interatomic potential pipelines for efficient simulation of biomolecules and crystalline materials. Interested in computational chemistry, drug discovery, materials science, and AI/ML.
+Computational Scientist developing models for enzyme activity, stability, and selectivity. My work spans quantum chemistry, molecular dynamics, high-performance computing, and machine learning and AI workflows. I have previously developed end-to-end ML interatomic potential pipelines for efficient simulation of biomolecules and molecular crystals. Interested in computational chemistry, drug discovery, materials science, and AI/ML.
 
 ## 🛠️ Tech Stack
 
 **Programming Languages:**  
-`Python` `C` `C++` `Fortran` `SQL`
+`Python` `C` `C++` `Fortran`
 
 **Machine Learning / AI / Data Processing**  
 `PyTorch` `GPyTorch` `JAX` `scikit-learn` `scipy` `pandas` `NumPy` `FastMCP`
 
 **Tools / Platforms**  
-`Git` `Docker` `VS Code` `Linux` `SGE` `SLURM`
+`Git` `Docker` `VS Code` `Linux` `SGE` `SLURM`  `SQL` `MongoDB`
 
 **Quantum Chemistry / Cheminformatics / Molecular Dynamics**  
 `Gaussian` `ORCA` `OpenMM` `CP2K` `RDKit`
