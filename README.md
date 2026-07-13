@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Computational Scientist developing models for enzyme activity, stability, and selectivity. My work spans quantum chemistry, molecular dynamics, high-performance computing, and machine learning and AI workflows. I have previously developed end-to-end ML interatomic potential pipelines for efficient simulation of biomolecules and molecular crystals. Interested in computational chemistry, drug discovery, materials science, and AI/ML.
+Computational Scientist developing models for enzyme activity, stability, and selectivity. My work spans quantum chemistry, molecular dynamics, high-performance computing, and machine learning and AI workflows. I have previously developed end-to-end ML interatomic potential pipelines for efficient simulation of biomolecules and molecular crystals. Interested in computational chemistry, protein design, drug discovery, materials science, and AI/ML.
 
 ## 🛠️ Tech Stack
 
